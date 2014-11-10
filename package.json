@@ -1,0 +1,30 @@
+{
+  "name": "treslek-comic",
+  "version": "0.0.0",
+  "description": "A trelek plugin that generates comics from chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/jirwin/treslek-comic"
+  },
+  "keywords": [
+    "treslek",
+    "irc",
+    "comic",
+    "canvas"
+  ],
+  "author": "Justin Gallardo <justin.gallardo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jirwin/treslek-comic/issues"
+  },
+  "homepage": "https://github.com/jirwin/treslek-comic",
+  "dependencies": {
+    "async": "^0.9.0",
+    "canvas": "^1.1.6",
+    "pkgcloud": "^1.0.3"
+  }
+}

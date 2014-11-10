@@ -1,6 +1,6 @@
 {
   "name": "treslek-comic",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A trelek plugin that generates comics from chat",
   "main": "index.js",
   "scripts": {

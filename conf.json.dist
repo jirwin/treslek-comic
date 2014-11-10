@@ -1,9 +1,9 @@
 {
-  "raxUser": "jirwin",
-  "raxApiKey": "ea30a805173cd3aaeac208ffb26ee26a",
+  "raxUser": "",
+  "raxApiKey": "",
   "cfRegion": "DFW",
   "cfContainer": "treslek",
-  "domain": "http://treslek.jirw.in/",
+  "domain": "http://example.com/",
   "comics": {
     "awkward": {
       "width": 900,
